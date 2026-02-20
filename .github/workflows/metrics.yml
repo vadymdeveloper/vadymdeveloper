@@ -22,8 +22,6 @@ jobs:
           plugin_languages_categories: programming
           plugin_languages_ignored: >-
             html, css, javascript, typescript, sql, shell, dockerfile, json, markdown, yaml, makefile, batch, powershell
-          plugin_languages_aliases: "c#:C#, kotlin:Kotlin, python:Python, rust:Rust"
-          commits_authoring: vadymdeveloper, dev.vadymhrynyk@gmail.com
           repositories_limit: 100
           config_allow_private: yes
           committer_token: ${{ secrets.GITHUB_TOKEN }}
