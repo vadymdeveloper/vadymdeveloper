@@ -2,12 +2,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vadymdeveloper&theme=tokyonight&border_radius=10" width="95%" />
 </p>
 
-```text
-╔════════════════════════════════════════════════════════════════╗
-║  NOTICE: ALL PROJECTS ARE MY PRIVATE INTELLECTUAL PROPERTY.    ║
-║                                                                ║
-║  Access is restricted. Source code is not public.              ║
-║  Unauthorized copying or distribution is strictly prohibited.  ║
-║                                                                ║
-║  [ STATUS: PRIVATE & SECURED ]                                 ║
-╚════════════════════════════════════════════════════════════════╝
+---
+
+Most of my active projects are private.  
+Public repositories include selected experiments, tools, and open-source work.
